@@ -1,2 +1,5 @@
 # hello-world
-Testing with Hello World
+// Testing with Hello World
+public static void main(String[] args){
+  System.out.println("Hello World!");
+}
